@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 
 - ⚡ **「专业技能」**  
-  技能：<span color="red">Node<span/>、Javascript、Typescript、Html5、Css3、、Python、Mysql……  
-  框架: Vue2、Vue3、Nuxt.js、React、Next.js、Umi.js、Egg.js、Koa2、Electron、Svelte……  
-  UI库：ElementUI、Ant Design、Vant、Vuetify、Bootstrap、Ionic……  
+  技能：Node、Javascript、Typescript、Html5、Css3、Python、Mysql、Redis ……  
+  框架: Vue2、Vue3、Nuxt.js、React、Next.js、Umi.js、Egg.js、Koa2、Electron、Svelte ……  
+  UI库：ElementUI、Ant Design、Vant、Vuetify、Bootstrap、Ionic ……  
 
 
 - 🌱 **「最近在忙」**  
   迷茫ing……
-    
+
 ---
 📈 **my github stats**  
 
