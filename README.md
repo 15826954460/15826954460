@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ---
 📈 **my github stats**  
 
-< img src="https://github-readme-stats.vercel.app/api?username=keycasiter&show_icons=true?&hide_title=true" width="400px"  />
+<img src="https://github-readme-stats.vercel.app/api?username=keycasiter&show_icons=true?&hide_title=true" width="400px">
