@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 **「最近在忙」**  
-  迷茫ing……
+  Coding……
 
 ---
 📈 **my github stats**  
